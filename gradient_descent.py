@@ -43,7 +43,7 @@ def predict(points,b,m):
 
 
 def run():
-	points=genfromtxt("/home/ramya/Desktop/DL/linear_regression_live/data.csv",delimiter=",")
+	points=genfromtxt("/home/ramya/Desktop/DL/Students/data.csv",delimiter=",")
 	num_iterations=100000
 	learning_rate=0.0001
 	initial_b=0
