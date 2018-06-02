@@ -1,6 +1,6 @@
 # Students-test-scores-VS-Working-Hours
 
-This is the code for the "How to Do Linear Regression the Right Way"
+This is the code for Linear Regression
 
 ## Overview
 
