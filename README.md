@@ -15,7 +15,7 @@ https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png
 
 ## Usage
 
-Just run ``python3 gradient_descent.py`` to see the results:
+Run ``python3 gradient_descent.py`` to see the results:
 
   
   
